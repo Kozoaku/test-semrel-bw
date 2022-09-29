@@ -1,4 +1,4 @@
-local name, tbl = ...;
+local name = ...;
 
 local LibStub = LibStub;
 local AceLocale = LibStub:GetLibrary("AceLocale-3.0"); ---@type AceLocale-3.0
