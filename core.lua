@@ -68,6 +68,7 @@ function HelloWorld:SayHello()
 
     if GetBindLocation() == GetSubZoneText() then
         UIErrorsFrame:AddMessage(self.db.profile.message, 1, 1, 1);
+        UIErrorsFrame:AddMessage("This is getting too hard", 1, 1, 1);
     end
 end
 
