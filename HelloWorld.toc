@@ -1,0 +1,17 @@
+## Interface: 90207
+## Interface-Wrath: 30400
+## Interface-TBC: 20504
+## Interface-Classic: 11403
+
+## Title: HelloWorld
+## Author: @project-author@
+## Version: @project-version@
+
+## Notes: This is just a silly addon to test creating versions using SemRel and BW Packager
+
+## SavedVariables: HelloWorldDB
+
+embeds.xml
+locales\locales.xml
+
+core.lua
