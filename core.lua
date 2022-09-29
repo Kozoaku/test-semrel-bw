@@ -59,6 +59,16 @@ function HelloWorld:OnEnable()
     if self.frames.bar == nil then
         self.frames.bar = CreateFrame("Frame", name.."BarFrame", UIParent);
     end
+
+    self:RegisterEvent("ZONE_CHANGED", self.SayHello);
+end
+
+function HelloWorld:SayHello()
+    local GetBindLocation, GetSubZoneText = GetBindLocation, GetSubZoneText;
+
+    if GetBindLocation() == GetSubZoneText() then
+        UIErrorsFrame:AddMessage(self.db.profile.message, 1, 1, 1);
+    end
 end
 
 function HelloWorld:OnDisable()
