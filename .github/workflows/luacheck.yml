@@ -1,0 +1,14 @@
+name: Luacheck
+
+on: [pull-request]
+
+jobs:
+  luacheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Run Luacheck
+        uses: nebularg/actions-luacheck@v1
