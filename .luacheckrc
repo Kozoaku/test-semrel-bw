@@ -6,6 +6,8 @@ codes = true
 exclude_files = {
 }
 ignore = {
+	"212/self", -- Unused argument self
+	"212/info", -- Unused argument info
 --[[
     "11./SLASH_.*", -- Setting an undefined (Slash handler) global variable
 	"11./BINDING_.*", -- Setting an undefined (Keybinding header) global variable
@@ -25,7 +27,7 @@ ignore = {
 }
 globals = {
 	-- Custom misc
---	"LibStub",
+	"LibStub",
 
 	-- FrameXML misc
 	"CooldownFrame_Set",
