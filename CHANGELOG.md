@@ -11,7 +11,7 @@
 * **core:** add really awesome feature ([#11](https://github.com/Kozoaku/test-semrel-bw/issues/11)) ([b16f7a2](https://github.com/Kozoaku/test-semrel-bw/commit/b16f7a24eca565eac9cc392fb2b049e0b6a3695c))
 * **core:** Print message when enter hearth zone ([#4](https://github.com/Kozoaku/test-semrel-bw/issues/4)) ([#6](https://github.com/Kozoaku/test-semrel-bw/issues/6)) ([d30af23](https://github.com/Kozoaku/test-semrel-bw/commit/d30af23f62a94752562a6ab6856d6a02d644e112))
 
-# 1.0.0 (2022-09-30)
+# 0.0.1 (2022-09-30)
 
 
 ### Bug Fixes
