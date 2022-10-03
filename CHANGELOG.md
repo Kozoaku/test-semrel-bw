@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Kozoaku/test-semrel-bw/compare/v1.0.0...v1.1.0) (2022-10-03)
+
+
+### Features
+
+* **core:** added another message to make this user happy ([50aa927](https://github.com/Kozoaku/test-semrel-bw/commit/50aa927f21f1ee028ef2ba4461bff421bc27c1dc))
+
 # 1.0.0 (2022-10-03)
 
 
