@@ -12,6 +12,7 @@ on:
     paths-ignore:
       - '.github/**'
       - 'docs/**'
+      - 'CHANGELOG.md'
 
 jobs:
   version:
