@@ -35,7 +35,7 @@ jobs:
 
       - name: Semantic Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_CREDENTIALS }}
           GIT_CREDENTIALS: ${{ secrets.GIT_CREDENTIALS }}
           GIT_AUTHOR_NAME: 'Kozoaku'
           GIT_AUTHOR_EMAIL: '93962386+Kozoaku@users.noreply.github.com'
@@ -59,4 +59,4 @@ jobs:
         with:
           args: -S
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_CREDENTIALS }}
