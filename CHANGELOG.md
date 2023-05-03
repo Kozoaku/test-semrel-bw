@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/Kozoaku/test-semrel-bw/compare/v1.1.2...v1.1.3) (2023-05-03)
+
+
+### Bug Fixes
+
+* another small change ([#15](https://github.com/Kozoaku/test-semrel-bw/issues/15)) ([26c8f71](https://github.com/Kozoaku/test-semrel-bw/commit/26c8f71a1dc186f9723f08bbb267a64535500a50))
+
 ## [1.1.1](https://github.com/Kozoaku/test-semrel-bw/compare/v1.1.0...v1.1.1) (2023-05-03)
 
 
