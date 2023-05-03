@@ -70,7 +70,6 @@ function HelloWorld:SayHello()
         UIErrorsFrame:AddMessage(self.db.profile.message, 1, 1, 1);
         UIErrorsFrame:AddMessage("This is getting too hard", 1, 1, 1);
         UIErrorsFrame:AddMessage("Does this even work?!", 1, 1, 1);
-        UIErrorsFrame:AddMessage("A small change?!", 1, 1, 1);
 
     end
 end
