@@ -70,6 +70,7 @@ function HelloWorld:SayHello()
         UIErrorsFrame:AddMessage(self.db.profile.message, 1, 1, 1);
         UIErrorsFrame:AddMessage("This is getting too hard", 1, 1, 1);
         UIErrorsFrame:AddMessage("Does this even work?!", 1, 1, 1);
+        UIErrorsFrame:AddMessage("A huge change that will fix all the complaints of Wow in real time!", 1, 1, 1);
     end
 end
 
