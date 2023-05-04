@@ -1,3 +1,13 @@
+# [2.0.0-alpha.1](https://github.com/Kozoaku/test-semrel-bw/compare/v1.1.3...v2.0.0-alpha.1) (2023-05-04)
+
+
+* feat!: remove Argus ([6ffd1e8](https://github.com/Kozoaku/test-semrel-bw/commit/6ffd1e8e604cf5f077102f060f5ac8dccea4c60e))
+
+
+### BREAKING CHANGES
+
+* Remove all lore references to Argus, thus removing the Dranei from WoW
+
 ## [1.1.3](https://github.com/Kozoaku/test-semrel-bw/compare/v1.1.2...v1.1.3) (2023-05-03)
 
 
